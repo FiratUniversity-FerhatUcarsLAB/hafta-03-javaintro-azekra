@@ -6,7 +6,7 @@ public class CarpimTablosu {
         System.out.println("2'nin Carpim Tablosu:");
         System.out.println("---------------------");
 
-        System.out.println(sayi + " x 1 = " + (sayi * 1));
+        System.out.println(sayi + " x 1 = " + (sayi * 1)) ;
         System.out.println(sayi + " x 2 = " + (sayi * 2));
         System.out.println(sayi + " x 3 = " + (sayi * 3));
         System.out.println(sayi + " x 4 = " + (sayi * 4));
@@ -18,3 +18,4 @@ public class CarpimTablosu {
         System.out.println(sayi + " x 10 = " + (sayi * 10));
     }
 }
+
